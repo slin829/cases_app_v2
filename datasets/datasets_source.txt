@@ -1,0 +1,17 @@
+ACAPS
+https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
+
+COVID cases summarised
+https://github.com/owid/covid-19-data/tree/master/public/data
+
+
+#-------------- not used ---------------------------
+COVID timeseries and cases
+https://github.com/CSSEGISandData/COVID-19
+
+World Population
+https://www.kaggle.com/tanuprabhu/population-by-country-2020#population_by_country_2020.csv
+
+Tests_performed
+https://ourworldindata.org/covid-testing
+
